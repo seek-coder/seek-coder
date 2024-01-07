@@ -3,7 +3,7 @@
 </p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/catriel-gatto-2828ba264/)
-[<img src="https://github.com/seek-coder/seek-coder/assets/130781541/0be5c6d9-861b-46f5-a09f-6ef16b1c8a10"/>](https://www.tinkercad.com/dashboard?collection=designs)
+[<img src="https://github.com/seek-coder/seek-coder/assets/130781541/13230445-21f5-4445-a2e8-9651a1e4c66e"/>](https://www.tinkercad.com/dashboard?collection=designs)
 
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
