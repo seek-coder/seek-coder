@@ -11,7 +11,7 @@
 - 💻 I’m currently working on a Truth table project
 - 🌱 I’m currently learning SQL and C#
 - 👯 I’m looking to collaborate on open source projects.
-- ⚡ Fun fact: I studied philosophy back in the days, focusing on formal logic
+- ⚡ Fun fact: I graduated from Philosophy back in the days, focusing on formal logic
 - 📫 How to reach me: [catrielgatto99@gmail.com](catrielgatto99@gmail.com)
 - 😄 Pronouns: He/Him
 
