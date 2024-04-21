@@ -7,7 +7,7 @@
 
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
-- 📘 I'm studying an Associate degree in computer science @ UTN.
+- 📘 I'm studying an Associate degree in Programming @ UTN.
 - 💻 I’m currently working on a Truth table project
 - 🌱 I’m currently learning SQL and C#
 - 👯 I’m looking to collaborate on open source projects.
