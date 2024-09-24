@@ -8,12 +8,11 @@
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
 - 📘 I'm studying an Associate degree in Computer Science @ UTN.
-- 💻 I’m currently working on a Truth table project
-- 🌱 I’m currently learning SQL and C#
+- 💻 I’m currently working on a Formal logic Website
+- 🌱 I’m currently delving into web development (NodeJS, React, SQL)
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: I graduated from Philosophy back in the days, focusing on formal logic
 - 📫 How to reach me: [catrielgatto99@gmail.com](catrielgatto@gmail.com)
-- 😄 Pronouns: He/Him
 
 ### Technologies
 <p align="left">
