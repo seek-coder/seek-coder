@@ -8,7 +8,6 @@
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
 - 📘 I'm studying an Associate degree in Computer Science @ UTN (75% completed).
-- 💻 I’m currently working on a Formal logic Website
 - 🌱 I’m currently delving into Data Engineering (Python, SQL, Cloud)
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: I graduated from Philosophy back in the days, focusing on formal logic
