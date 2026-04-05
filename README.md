@@ -7,11 +7,11 @@
 
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
+- 🌱 I’m currently working as BI Analyst (Data Warehouse, SQL, Python)
 - 📘 I'm studying an Associate degree in Computer Science @ UTN (75% completed).
-- 🌱 I’m currently delving into Data Engineering (Python, SQL, Cloud)
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: I graduated from Philosophy back in the days, focusing on formal logic
-- 📫 How to reach me: [catrielgatto99@gmail.com](catrielgatto99@gmail.com)
+- 📫 How to reach me: [catrielgatto@gmail.com](catrielgatto@gmail.com)
 
 ### Technologies
 <p align="left">
